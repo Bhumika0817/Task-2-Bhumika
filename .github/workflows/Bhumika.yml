@@ -8,4 +8,4 @@ jobs:
     steps:
       -uses: actions/checkout@v3
       -name: run Tests
-       run: echo "Running tests..."
+       run: echo "Running tests...|"
